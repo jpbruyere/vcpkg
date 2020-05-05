@@ -1,0 +1,4 @@
+Source: libvkvg
+Version: 0.1.0
+Description: Vulkan 2D drawing library.
+Homepage: https://github.com/jpbruyere/vkvg
