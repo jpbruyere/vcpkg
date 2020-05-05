@@ -1,4 +1,5 @@
 Source: libvkvg
 Version: 0.1.0
 Description: Vulkan 2D drawing library.
+Build-Depends: fontconfig, freetype, harfbuzz, vulkan
 Homepage: https://github.com/jpbruyere/vkvg
